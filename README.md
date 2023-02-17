@@ -23,3 +23,4 @@ Sales using RestApi to calculate the total sales for a customer X.
 Customer will take any product with any amount as they wish from the given products in
 Database. Based on the customer’s chosen product, the total sales amount will be updated as
 well as the inventory. 
+
